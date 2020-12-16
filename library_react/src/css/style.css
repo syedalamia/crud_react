@@ -1,0 +1,109 @@
+/*header start*/
+
+header {
+  background-color: #fff9f3;
+
+  padding: 20px 0;
+}
+
+.navbar_custom {
+  box-shadow: 0 0 black !important;
+}
+
+.menu ul li a {
+  font-size: 22px;
+  font-weight: 700;
+  color: #010101 !important;
+  padding: 0 45px !important;
+  transition: 0.3s;
+}
+.menu ul li:last-child a {
+  padding-right: 0 !important;
+}
+.menu ul li a:hover {
+  color: #ffbe07d1 !important;
+}
+/*header end*/
+
+/*banner start*/
+.banner {
+  background-image: url(../images/back1.png);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+.content {
+  padding: 100px 0px 486px;
+}
+
+.content h2 {
+  font-size: 40px;
+  font-weight: 700;
+  color: #ffc178;
+}
+
+.content p {
+  color: #5a6e79;
+  margin: 32px 0;
+}
+.content a {
+  text-decoration: none !important;
+}
+.btn_custom {
+  color: #f2f8ff;
+  padding: 14px 39px;
+  border-radius: 3.25rem;
+}
+.btn-yellow {
+  background-color: #ffbe07d1;
+  border-color: #ffbe07d1;
+}
+
+/*banner end*/
+
+/*reg section start*/
+.reg {
+  padding-top: 70px;
+}
+.reg_text h3 {
+  margin: 0 0 61px;
+  font-size: 31px;
+  color: #ffc178;
+}
+.reg_btn {
+  padding: 14px 47px !important;
+  background-color: #ffbe07d1 !important;
+  border-radius: 3.25rem !important;
+  color: white !important;
+}
+
+.reg_btn:hover {
+  background-color: white !important;
+
+  color: #ffbe07d1 !important;
+}
+/*reg section end*/
+
+/*book list start*/
+.book_showing {
+  padding-top: 68px;
+}
+/*book list end*/
+
+/*table*/
+.btn-table {
+  color: #fff !important;
+
+  background-color: #ffbe07d1 !important;
+  border-color: #ffbe07d1 !important;
+  border-radius: 9% !important;
+  padding: 12px 22px !important;
+}
+
+.btn-table:hover {
+  background-color: white !important;
+  color: #ffbe07d1 !important;
+}
+
+/*table*/
